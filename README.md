@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Annabelle 👋
 
-<!--
-**thephdstudent/thephdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a PhD student interested in bioinformatics, Python, reproducible research, and data science.
 
-Here are some ideas to get you started:
+## Current interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building clear, reproducible computational biology workflows
+- Genomics and sequencing-data analysis
+- Python tooling, testing, and scientific software
+- Open-source collaboration and research communication
+
+## Featured project
+
+- [Demo Bioinformatics Pipeline](https://github.com/thephdstudent/demo-bioinformatics-pipeline) — an educational Python pipeline covering quality control, alignment, and quantification.
+
+## Tools I’m exploring
+
+Python · R · Git · GitHub Actions · Nextflow · nf-core · Scanpy · Bioconductor
+
+I’m always interested in learning from open-source projects and collaborating on practical, well-documented research software.
