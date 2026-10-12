@@ -1,10 +1,10 @@
 # Hi, I'm Annabelle 👋
 
-I’m a PhD student interested in bioinformatics, Python, reproducible research, and data science.
+I’m a Dr in bioinformatics and computational biology, interested in bioinformatics, Python, reproducible research, and data science.
 
 ## Current interests
 
-- Building clear, reproducible computational biology workflows
+- Building clear, reproducible computational biology/ bioinformatics workflows
 - Genomics and sequencing-data analysis
 - Python tooling, testing, and scientific software
 - Open-source collaboration and research communication
